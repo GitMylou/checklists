@@ -1,101 +1,59 @@
 [A faire avant]
   Se couper les ongles (pieds + mains) !
-  Vérifier la présence de sources d'eau.
 
-[Vêtements]
-  Chaussures hautes de montagne (imperméables, pointures + 1) équipées de semelles
-  Grosses chaussettes (anti-ampoules si possible...)
-  Pantalon adapté
-  Caleçon long
-  Casquette
-  Gants
-  Bonnet (+ cerveau)
-  Poncho ou kway+protege sac impermeable
-  Polaire + manteau
-  Vêtements de rechange (sous-vêtements + tshirt pour être au sec le soir)
+[sac]
+Sac-à-dos (minimum 70L)
+mettre toute ces affaires dans des Sacs plastique dans le sac pour eviter humidite
+
+[Vêtements sur soi]
+Chaussures hautes de montagne (imperméables, pointures + 1)
+Grosses chaussettes
+Pantalon adapté
+t-shirt a manche longue qui seche vite
+debardeur
+manteau 
+
+[Vêtements dans le sac]
+Casquette / bonnet
+Gants
+Poncho ou kway+protege sac impermeable
+caleçon long
+Polaire + 1 pull pour le soir
+Vêtements de rechange (sous-vêtements + tshirt pour être au sec le soir)
 
 [Ronflement]
   Duvet (minimum 0°C)
-  Plaid
-  Pyjama
-  Tente si besoin
   Matelas si besoin
 
 [Ustensiles de cuisine]
   Couteau aiguisé, fourchette, cuillère
-  Tire-bouchon (de la CGT)
   Ecuelle
   Verre
   Bouteille d'eau / Gourde
 
-  Réchaud + recharge de gaz
-
 [Outils rando]
-  Sac-à-dos (minimum 70L)
-  Sacs plastique pour rangement dans le sac-à-dos
-  Sacs poubelle
-
-  Jumelles
-  Altimètre
-  Boussole
-  Carte IGN 1/25000 récente
-  Guide plantes et champignons
-
   Raquettes
   Batons
   Guêtres
 
-  Lampe frontale / Lampe de poche
-  Bougies
-
+  Lampe frontale
   !!!!!!! PQ !!!!!!
 
   Lunettes de soleil
-  Crème solaire
 
   Tabac
   Plusieurs briquets (tempête)
 
-  Medicaments
-  Trousse de secours
-  Pansements anti ampoules
-  Anti moustique
   Brosse a dent
-
-  Jeux (Yams, mot fléchés, ...)
-  Jonglage de feu
-  
-  Chauffe main
 
 [High tech]
   batterie de secours + cable USB
-  enceintes + cable jack
-  Appareil photo
   Smartphone (cartes map.me et view ranger téléchargées)
   Piles de secours
 
-[Picole]
-  Cubi de vin rouge (minimum 1LSP - Litron par soir par personne)
-  
-  Pain
-  
-  Bouffe salée
-	Charcuterie (Talons de jambons...)
-	Viande
-	Oeufs durs
-	Fromage
-	Salades en boite
-	Homard
-	
-  Bouffe sucrée
-	Consistance matinale
-	Fruits
-	Fruits secs
-		Abricots secs
-		Pruneaux d'Agen
-  Café / thé / sucre
-  
-  Saint yorre, ça va fort
-  
-[Musique]
-Piccolo ou fifre + partition si possible
+[option]
+Appareil photo
+
+Medicaments
+Trousse de secours
+Pansements anti ampoules
